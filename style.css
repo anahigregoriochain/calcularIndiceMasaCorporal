@@ -1,0 +1,21 @@
+/*reset*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(img/imgFondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 2rem;
+    background-color: #371610;
+    color: white;
+    margin: 1rem;
+    text-align: center;
+}
